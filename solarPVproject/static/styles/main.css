@@ -1,0 +1,125 @@
+.page-container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.page-header {
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+.signup-banner-container {
+    width: 100%;
+    margin: 0 auto;
+    clear: both;
+    text-align: center;
+}
+
+.main-content {
+    margin: 0 auto;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+.main-content-left {
+    width: 28%;
+    float: left;
+    margin: 0 1%;
+}
+
+.main-content-right {
+    width: 28%;
+    float: right;
+    margin: 0 1%;
+}
+
+.main-content-center {
+    width: 38%;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.header-aside-left {
+    max-width: 25%;
+    float: left;
+}
+
+.header-aside-right {
+    width: 25%;
+    float: right;
+}
+
+.main-navigation {
+    width: 100%;
+    clear: both;
+}
+
+.main-navigation-list {
+    margin: 0 10%;
+    text-align: center;
+}
+
+.main-nav-list-item {
+    display: inline-block;
+    text-decoration: none;
+}
+
+.main-left-nav {
+    text-align: center;
+}
+
+.logo-banner {
+    width: 100%;
+    max-width: 250px;
+}
+
+.logo-img {
+    width: 100%;
+    max-width: 250px;
+    max-height: 100%;
+}
+
+.header-right-link-list-item {
+    display: inline;
+    text-decoration: none;
+}
+
+.page-footer {
+    border: 1px solid black;
+}
+
+.footer-logo-img {
+    width: 100%;
+    max-width: 3%;
+}
+
+.footer-sub-section {
+    display: inline-block;
+}
+
+.footer-nav-list-item {
+    display: inline-block;
+}
+
+.signup-form-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.signup-form {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.input-container {
+    display: block;
+    min-width: 255px;
+    padding: 2% 0 0 0;
+}
+
+.input-label {
+    min-width: 80px;
+    width: 30%;
+}
